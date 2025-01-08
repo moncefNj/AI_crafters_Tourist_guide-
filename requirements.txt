@@ -1,4 +1,0 @@
-smolagents
-requests
-python-dotenv
-twilio
